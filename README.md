@@ -5,4 +5,4 @@ com esta aplicação o enfermeiro poderá ao fazer a sua ronda pelos doentes gua
 como é demonstrado na figura abaixo a tabela da base de dados Estado_Saúde terá campos como a hora e o dia da visita, a temperatura corporal do idoso (febre), os medicamentos que foram dados ao doente e também os sintomas que este teria durante a ronda do enfermeiro.
 
 
-![alt text]()
+![alt text](https://github.com/hm1700714/GestaoPacientes/blob/master/Modelo.png)
