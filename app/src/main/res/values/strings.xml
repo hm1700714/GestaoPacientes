@@ -15,4 +15,8 @@
     <string name="editar_doente">Editar Doente</string>
     <string name="ver_doente">Ver Doente</string>
     <string name="apagar_doente">Apagar Doente</string>
+    <string name="adicionar_estado_saude">Adicionar Estado de Saúde</string>
+    <string name="apagar_estado_saude">Apagar Estado de Saúde</string>
+    <string name="ver_estado_de_saude">Ver Estado de Saúde</string>
+    <string name="editar_estado_de_saude">Editar Estado de Saúde</string>
 </resources>
