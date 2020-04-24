@@ -11,7 +11,7 @@
         android:id="@+id/buttonDoentes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="300dp"
+        android:layout_marginTop="224dp"
         android:onClick="passaDoente"
         android:text="@string/doentes"
         app:layout_constraintEnd_toEndOf="parent"
@@ -23,11 +23,22 @@
         android:id="@+id/buttonEstadoSaude"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="132dp"
+        android:layout_marginTop="60dp"
         android:onClick="passaEstadoSaude"
         android:text="@string/estadosaude"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/buttonDoentes" />
+
+    <Button
+        android:id="@+id/buttonSintomas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:onClick="passaSintomas"
+        android:text="@string/sintomas"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonEstadoSaude" />
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -24,10 +24,14 @@ public class MainActivity extends AppCompatActivity {
 
     public void passaEstadoSaude (View view){
 
-        Intent intent = new Intent(this, ActivityDoentes.class);
+        Intent intent = new Intent(this, ActivityEstadoSaude.class);
         startActivity(intent);
     }
 
+    public void passaSintomas (View view){
 
+        Intent intent = new Intent(this, ActivitySintomas.class);
+        startActivity(intent);
+    }
 
 }
