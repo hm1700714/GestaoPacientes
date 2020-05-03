@@ -22,4 +22,14 @@
     <string name="editar_sintomas">Editar Sintomas</string>
     <string name="ver_sintomas">Ver Sintomas</string>
     <string name="apagar_sintomas">Apagar Sintomas</string>
+    <string name="nome_do_utente">Nome do Utente</string>
+    <string name="morada_do_utente">Morada do Utente</string>
+    <string name="contacto_do_utente">Contacto do Utente</string>
+    <string name="data_de_nascimento">Data de Nascimento</string>
+    <string name="dia_da_visita">Dia da Visita</string>
+    <string name="hora_da_visita">Hora da Visita</string>
+    <string name="temperatura_recolhida">Temperatura Recolhida</string>
+    <string name="medicamentos">Medicamentos</string>
+    <string name="sintoma">Sintoma(s)</string>
+    <string name="descricao_sintomas">Descrição dos Sintomas</string>
 </resources>
